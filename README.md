@@ -2,5 +2,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jacksonyuan-yt.dynamodb-crud-api-gateway)
 
-### YouTube Video Tutorial
-* [Full Tutorial](https://youtu.be/hOcbHz4T0Eg)
+This is a demo DynamoDB CRUD operation using AWS Lambda through Amazon API Gateway!
